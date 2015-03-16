@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff1188ff</color>
+    <color name="user_name_color">#cf1227ff</color>
+</resources>
